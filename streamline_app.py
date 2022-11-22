@@ -26,4 +26,4 @@ streamlit.dataframe(fruits_to_show)
 import requests
 fruityvice response
 = requests.get("https://fruityvice.com/api/fruit/watermelon"
-streamlit.text(fruityvice respons
+streamlit.text(fruityvice response)
